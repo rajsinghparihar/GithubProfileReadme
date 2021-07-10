@@ -24,7 +24,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <img align="right" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
-<img src="https://www.python.org/python-.png">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 
