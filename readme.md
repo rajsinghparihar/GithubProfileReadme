@@ -15,3 +15,9 @@
 <a href="https://github.com/rajsinghparihar/GithubProfileReadme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsinghparihar&layout=compact&title_color=CCD6F6&text_color=CCD6F6&icon_color=2bbc8a&bg_color=22272E&hide_border=1&border_radius=15&custom_title=Languages" />
 </a>
+<br />
+<br />
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajsinghparihar/)](https://www.linkedin.com/in/rajsinghparihar) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rajsingh.parihar.142687/)](https://www.facebook.com/rajsingh.parihar.142687/) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/rajsinghparihar_/)](https://www.instagram.com/rajsinghparihar_/)
